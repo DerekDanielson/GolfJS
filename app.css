@@ -1,0 +1,11 @@
+/* NOTES:
+Make background change to new background each hole.  Maybe 8-bit style backgrounds?
+*/
+
+body {
+    background: blue;
+}
+
+h1 {
+    color: white;
+}
