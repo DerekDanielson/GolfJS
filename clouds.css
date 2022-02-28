@@ -13,6 +13,7 @@
 	position: relative;
     left: -30%;
 	margin: 120px auto 20px;
+
 }
 
 #cloudLeft:after, #cloudLeft:before {
@@ -57,7 +58,7 @@
 	-moz-border-radius: 100px;
 	
 	position: relative;
-    right: -25%;
+    right: -35%;
 	margin: 120px auto 20px;
 }
 

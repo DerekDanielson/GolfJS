@@ -3,13 +3,9 @@ Make background change to new background each hole.  Maybe 8-bit style backgroun
 */
 
 body {
-    background: rgb(76, 76, 252);
-}
-
-#ground {
-    background: rgb(2, 150, 2);
-    height: 30rem;
-    margin-top: 24rem;
+    height: 100%;
+    background: linear-gradient(rgb(68, 68, 230) 70%, rgb(2, 150, 2) 30%);
+    margin-bottom: 7%;
 }
 
 #buttons {
