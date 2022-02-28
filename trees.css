@@ -1,7 +1,14 @@
 #tree1 {
-    position: relative;
-    margin: 0 auto;
-    width: 8em;
+  margin-left: -80%;
+  /*margin-bottom: -3%;*/
+}
+
+#tree2 {
+  margin-left: -40%;
+}
+
+#tree3 {
+  margin-left: 60%;
 }
 
 .treeTop {
